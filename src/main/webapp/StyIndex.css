@@ -1,0 +1,21 @@
+ table{
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        td, th{
+            padding: 10px;
+        }
+
+        td{
+            border : solid 1px #eee;
+        }
+
+        thead > tr{
+            background-color: #fafafa;
+        }
+
+        form input{
+            padding: 3px 10px;
+            border : solid 1px #ddd;
+        }
